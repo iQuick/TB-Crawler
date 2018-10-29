@@ -34,5 +34,5 @@ _PASSWORD = 'xxxx'      # 淘宝帐号密码
 
 
 ## 相关文章
-[简书-抓取淘宝联盟优惠券](https://www.jianshu.com/p/d2545ab42ab2)
-[简书-淘宝联盟自动登录](https://www.jianshu.com/p/5b11cbdde038)
+* [简书-抓取淘宝联盟优惠券](https://www.jianshu.com/p/d2545ab42ab2)
+* [简书-淘宝联盟自动登录](https://www.jianshu.com/p/5b11cbdde038)
